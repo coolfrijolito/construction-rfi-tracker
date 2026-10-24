@@ -1,0 +1,13 @@
+ID,Type,Title,Spec Section,Owner,Owner Email,Date Submitted,Due Date,Status,Notes
+RFI-001,RFI,Clarify footing depth at grid C-4,03 30 00,Jordan Lee,jordan.lee@example.com,2026-09-02,2026-09-09,Closed,Answered by structural
+RFI-002,RFI,Conflict: duct vs. beam at Level 2,23 31 00,Priya Nair,priya.nair@example.com,2026-09-10,2026-09-17,Answered,Reroute approved
+RFI-003,RFI,Storefront glazing color confirmation,08 41 13,Sam Ortiz,sam.ortiz@example.com,2026-09-20,2026-09-27,Open,Awaiting architect
+SUB-001,Submittal,Rebar shop drawings,03 21 00,Jordan Lee,jordan.lee@example.com,2026-08-28,2026-09-11,Approved,
+SUB-002,Submittal,Roofing membrane product data,07 54 23,Casey Kim,casey.kim@example.com,2026-09-15,2026-09-29,Revise & Resubmit,Wrong thickness
+SUB-003,Submittal,Hollow metal door schedule,08 11 13,Sam Ortiz,sam.ortiz@example.com,2026-10-01,2026-10-15,Under Review,
+RFI-004,RFI,Site lighting pole base detail,26 56 00,Priya Nair,priya.nair@example.com,2026-10-05,2026-10-12,Open,
+SUB-004,Submittal,Paint color samples,09 91 00,Casey Kim,casey.kim@example.com,2026-10-12,2026-10-26,Under Review,
+RFI-005,RFI,Ceiling height at corridor 1B,09 51 00,Jordan Lee,jordan.lee@example.com,2026-10-16,2026-10-23,Open,
+SUB-005,Submittal,Fire sprinkler hydraulic calcs,21 13 13,Priya Nair,priya.nair@example.com,2026-10-19,2026-11-02,Submitted,
+RFI-006,RFI,Grading at north swale,31 22 00,Sam Ortiz,sam.ortiz@example.com,2026-10-21,2026-10-28,Open,
+SUB-006,Submittal,Elevator cab finishes,14 21 00,Casey Kim,casey.kim@example.com,2026-10-22,2026-11-05,Submitted,
